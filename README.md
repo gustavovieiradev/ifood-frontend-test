@@ -14,7 +14,7 @@ $ cd ifood-frontend-test
 When that's done, install the project dependencies.
 
 ```bash
-$ yarn i
+$ yarn install
 ```
 
 ## Enviroments
